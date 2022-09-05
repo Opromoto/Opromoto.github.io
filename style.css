@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+    background-color: #32D288;
+}
+
+h1{
+  color: goldenrod;
+  font-style: italic
+  
+}
+
+button{
+  padding: 15px 15px;
+  border: none;
+  border-radius: 10px;
+  background-color: goldenrod;
+  margin: 2px 0;
+}
+
+#message-el{
+  font-style: oblique;
+}
+#error{
+  color: red;
+  font-size: 10px;
+}
